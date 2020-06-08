@@ -1,11 +1,11 @@
 # Site settings
-author: Aaron Feingold
-title: 
+author: aaron.feingold
+title: a.feingold.first.blog
 header-img: img/home-bg.png
 email: ajfeingold88@gmail.com
-copyright_name: Aaron Feingold
+copyright_name: aaron.feingold
 description: > # this means to ignore newlines until "baseurl:"
-  
+  learning to code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  aaronfeingold
