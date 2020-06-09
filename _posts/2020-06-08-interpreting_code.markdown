@@ -20,4 +20,4 @@ Do I know right now exactly what uses I will find from simply learning the vario
 And if I can use the language of code, maybe I can really make some change and help someone. That's the ultimately the goal of this.
 
 
-*Hope you liked this first blog. It doesn't really matter much to me if I didn't explain myself well here: its only important if each blog is better than the last. 
+*Hope you liked this first blog. It doesn't really matter much to me if I didn't explain myself well here: its only important if each blog is better than the last. *
