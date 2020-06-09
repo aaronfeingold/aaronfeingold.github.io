@@ -17,7 +17,7 @@ By putting a voice to software code in the language that best suits you, that pr
 
 Do I know right now exactly what uses I will find from simply learning the various languages used in software engineering? No, I'm a complete novice, and I can barely see how all this comes together to build something like Google Earth. And I bring that up for a reason: on a personal note, when I came across that website when I was a kid, it changed my life. After homework and dinner, I would spend hours--literally hours--scoping out places near my home like NYC, learning every back street and hidden spot to park without having to pay a meter; Harriman state park, and discovering where trails would lead; Napa Valley vineyards, imagining I was a winemaker choosing the best grapes. Even today, I plan my backpacking and climbing adventures with it, searching for any sort of sign that'll guide me. How the designers and engineers behind that program saw the literal world and translated back to myself and anyone else using the program was not simply innovative: it was life changing. 
 
-And if I can use the language of code, maybe I can really make some change and help someone. That's the ultimately the goal of this.
+And if I can use the language of code, maybe I can really make some change and help someone. That's ultimately the goal.
 
 
 *Hope you liked this first blog. It doesn't really matter much to me if I didn't explain myself well here: its only important if each blog is better than the last. *
