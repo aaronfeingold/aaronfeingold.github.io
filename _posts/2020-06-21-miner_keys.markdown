@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Miner Keys"
-date:       2020-06-21 20:06:34 +0000
+date:       2020-06-21 16:06:35 -0400
 permalink:  miner_keys
 ---
 
@@ -22,6 +22,7 @@ The BASE URL is more like this abstract place within your own mind where you for
 The anology could go on and on and on. For the purpose of a blog, that would be superflous. It is sufficive to say that in the process of creating my Pokemon api, I was able to acheive something functional through long trial and error. Although, I was not able to create the full program I wanted to. Just like when you first learn an instrument, you don't just get on and start jamming. It is really sloppy and poorly edited. But, if the pedagogy is sound, it becomes possible to track your progression, and slowly but surely connect all the concepts together, and begin to recognize patterns. 
 
 Here is a bit of code used in the API whose pattern I am now beginning to recognize all other the place:
+```
 
   def self.get_pokemon_details
         Pokemon.all.each do |pokemon|
@@ -32,6 +33,7 @@ Here is a bit of code used in the API whose pattern I am now beginning to recogn
             pokemon.types = data["types"].map { |hash| hash["type"]["name"] }
        end
   end
+```
 
 At first, this made little sense to me. But now I pretty much get how the data relates to one another.
 
