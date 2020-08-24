@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "Online Solutions for Real World Problems"
-date:       2020-08-24 05:50:38 +0000
+date:       2020-08-24 01:50:39 -0400
 permalink:  online_solutions_for_real_world_problems
 ---
 
 
 > What did the grape say when it was crushed?
 
-> Nothing, it just let out a little wine.
+Nothing, it just let out a little wine.
 > 
  
 Preplanning is a sort of a continual process. Before you make a good plan, you've gotta plan out the planning session. Now I know that sounds silly and trite, but it happens to be effective, time and time again. What this really allows for, is having the flexibility to "replan", because in trying to do something you've never done before, its hard to know exactly what problems you will run into along the way, and you may need to go back to the drawing board. This can slow things down, but if you account for it from the beginning, you can still stay on pace.
