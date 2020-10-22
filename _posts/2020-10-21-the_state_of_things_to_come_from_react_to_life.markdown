@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The State of Things to Come: From React to Life"
-date:       2020-10-22 01:50:27 +0000
+date:       2020-10-21 21:50:27 -0400
 permalink:  the_state_of_things_to_come_from_react_to_life
 ---
 
