@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      " Is too much is never enough in Javascript?"
-date:       2020-09-24 18:41:27 +0000
+title:      " Is too much ever enough in Javascript?"
+date:       2020-09-24 14:41:28 -0400
 permalink:  is_too_much_is_never_enough_in_javascript
 ---
 
